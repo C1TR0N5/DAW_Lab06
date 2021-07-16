@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(247, 194, 142);
+}
+img{
+    width: 50%;
+    border-style: double;
+    border-color: black;
+    border-width: 5px;
+}
+h3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15px;
+}
+h2{
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+li{
+    padding: 8px;
+}
+footer{
+    margin-top: 50px;
+}
